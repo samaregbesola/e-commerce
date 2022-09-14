@@ -1,0 +1,32 @@
+{
+  "commerce": [
+    {
+      "id": 1,
+      "name": "Leather Bag",
+      "img": "https://res.cloudinary.com/dxrmjc5ai/image/upload/v1640292553/samples/ecommerce/leather-bag-gray.jpg",
+      "price": 20,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Accessories Bag",
+      "img": "https://res.cloudinary.com/dxrmjc5ai/image/upload/v1640292554/samples/ecommerce/accessories-bag.jpg",
+      "price": 35,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Shoes",
+      "img": "https://res.cloudinary.com/dxrmjc5ai/image/upload/v1640292549/samples/ecommerce/shoes.png",
+      "price": 15,
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "Analog Wrist Watch",
+      "img": "https://res.cloudinary.com/dxrmjc5ai/image/upload/v1640292545/samples/ecommerce/analog-classic.jpg",
+      "price": 10,
+      "inStock": true
+    }
+  ]
+}
